@@ -1,0 +1,2 @@
+# bashscriptsfortask
+automate task
